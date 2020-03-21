@@ -3,7 +3,15 @@ https://www.airconsole.com/ (multi player, many games such as cards against huma
 
 http://playingcards.io/ for cards against humanity.
 
-https://houseparty.com/ for video chat ( or https://zoom.us/ WhatsApp, Facebook Messenger, FaceTime ...)
+video chat:
+
+- https://houseparty.com/ up to 8 people
+- https://zoom.us/ up to 40 mins for groups, anyone can join
+- WhatsApp
+- Facebook Messenger
+- FaceTime
+- Hangouts (can't share video and screen at same time) / Duo
+- Skype
 
 https://lichess.org/ for online chess.
 
