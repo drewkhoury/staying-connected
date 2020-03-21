@@ -12,3 +12,8 @@ Netflix Party: https://chrome.google.com/webstore/detail/netflix-party/oocalimim
 DJ/play/listen to music: https://plug.dj/
 
 Mario Kart https://mariokarttour.com/en-US (app and nintento account required - both free)
+
+https://jackboxgames.com/games/ / Steam https://store.steampowered.com/
+
+Draw Something: https://apps.apple.com/us/app/draw-something-classic/id488628250
+Works with friends: https://www.zynga.com/games/words-with-friends-2/
