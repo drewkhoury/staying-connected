@@ -1,6 +1,6 @@
 http://playingcards.io/ for cards against humanity.
 
-https://houseparty.com/ for video chat.
+https://houseparty.com/ for video chat ( or https://zoom.us/ WhatsApp, Facebook Messenger, FaceTime ...)
 
 https://lichess.org/ for online chess.
 
