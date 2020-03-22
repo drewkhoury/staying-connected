@@ -24,4 +24,4 @@ Mario Kart https://mariokarttour.com/en-US (app and nintento account required - 
 https://jackboxgames.com/games/ / Steam https://store.steampowered.com/
 
 Draw Something: https://apps.apple.com/us/app/draw-something-classic/id488628250
-Works with friends: https://www.zynga.com/games/words-with-friends-2/
+Words with friends: https://www.zynga.com/games/words-with-friends-2/
